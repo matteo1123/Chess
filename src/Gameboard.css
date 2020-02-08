@@ -1,0 +1,40 @@
+.Gameboard{
+    display:flex;
+    width:800px;
+    height:800px;
+    flex-wrap:wrap;
+    transition: all ease 1s;
+    
+    
+}
+.black{
+    background-color:rgba(0, 0, 0, .4);
+}
+.square{
+    border: black solid 1px;
+    width: 90px;
+    height:100px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+
+}
+.Moveable{
+
+    border:solid 3px black;
+    width: 86px;
+    height:96px;
+}
+.Selected{
+    border:solid 3px black;
+    width: 86px;
+    height:96px;
+    box-shadow: 2px 2px 2px black;
+}
+
+
+.Rotated{
+    display:flex;
+    transform:rotate(180deg);
+}
