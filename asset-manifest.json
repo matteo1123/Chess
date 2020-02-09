@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.77b30ea6.chunk.css",
-    "main.js": "/static/js/main.5ddc18d6.chunk.js",
-    "main.js.map": "/static/js/main.5ddc18d6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.335fa1a8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.335fa1a8.js.map",
-    "static/js/2.547d34f4.chunk.js": "/static/js/2.547d34f4.chunk.js",
-    "static/js/2.547d34f4.chunk.js.map": "/static/js/2.547d34f4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1c77e12cd16a14f253c54a3fcbee2776.js": "/precache-manifest.1c77e12cd16a14f253c54a3fcbee2776.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.77b30ea6.chunk.css.map": "/static/css/main.77b30ea6.chunk.css.map",
-    "static/js/2.547d34f4.chunk.js.LICENSE.txt": "/static/js/2.547d34f4.chunk.js.LICENSE.txt"
+    "main.css": "/Chess/static/css/main.77b30ea6.chunk.css",
+    "main.js": "/Chess/static/js/main.f1ca1317.chunk.js",
+    "main.js.map": "/Chess/static/js/main.f1ca1317.chunk.js.map",
+    "runtime-main.js": "/Chess/static/js/runtime-main.a1d27d87.js",
+    "runtime-main.js.map": "/Chess/static/js/runtime-main.a1d27d87.js.map",
+    "static/js/2.547d34f4.chunk.js": "/Chess/static/js/2.547d34f4.chunk.js",
+    "static/js/2.547d34f4.chunk.js.map": "/Chess/static/js/2.547d34f4.chunk.js.map",
+    "index.html": "/Chess/index.html",
+    "precache-manifest.9b6ba19150bc50667ba2f6b4ea3feaca.js": "/Chess/precache-manifest.9b6ba19150bc50667ba2f6b4ea3feaca.js",
+    "service-worker.js": "/Chess/service-worker.js",
+    "static/css/main.77b30ea6.chunk.css.map": "/Chess/static/css/main.77b30ea6.chunk.css.map",
+    "static/js/2.547d34f4.chunk.js.LICENSE.txt": "/Chess/static/js/2.547d34f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.335fa1a8.js",
+    "static/js/runtime-main.a1d27d87.js",
     "static/js/2.547d34f4.chunk.js",
     "static/css/main.77b30ea6.chunk.css",
-    "static/js/main.5ddc18d6.chunk.js"
+    "static/js/main.f1ca1317.chunk.js"
   ]
 }
