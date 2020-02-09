@@ -1,6 +1,6 @@
 {
   "name": "chess",
-  "homepage" : "https://matteo1123.github.io/Chess"
+  "homepage" : "https://matteo1123.github.io/Chess",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
